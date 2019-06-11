@@ -1,0 +1,8 @@
+RUN	simulations.CustomFeeder		customfeeder	1560205838225	 	2.0
+USER	Video Game DB	1	START	1560205839601	1560205839601
+GROUP	Failed to build request Post New Game: No attribute named 'reviewSource' is defined 	1560205839641
+GROUP	Failed to build request Post New Game: No attribute named 'reviewSource' is defined 	1560205840667
+GROUP	Failed to build request Post New Game: No attribute named 'reviewSource' is defined 	1560205841678
+GROUP	Failed to build request Post New Game: No attribute named 'reviewSource' is defined 	1560205842676
+GROUP	Failed to build request Post New Game: No attribute named 'reviewSource' is defined 	1560205843677
+USER	Video Game DB	1	END	1560205839601	1560205844678

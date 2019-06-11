@@ -1,0 +1,76 @@
+RUN	simulations.BasicLoadSimulation		basicloadsimulation	1560209221921	 	2.0
+USER	Video Game DB	2	START	1560209227330	1560209227330
+USER	Video Game DB	5	START	1560209227330	1560209227330
+USER	Video Game DB	4	START	1560209227330	1560209227330
+USER	Video Game DB	3	START	1560209227330	1560209227330
+USER	Video Game DB	6	START	1560209227337	1560209227337
+USER	Video Game DB	1	START	1560209227330	1560209227330
+REQUEST	Video Game DB	4		Get All Videogames	1560209227365	1560209227365	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	6		Get All Videogames	1560209227364	1560209227364	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	3		Get All Videogames	1560209227365	1560209227365	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	5		Get All Videogames	1560209227364	1560209227364	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	1		Get All Videogames	1560209227365	1560209227365	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	2		Get All Videogames	1560209227364	1560209227364	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	7	START	1560209228328	1560209228328
+REQUEST	Video Game DB	7		Get All Videogames	1560209228329	1560209228329	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	8	START	1560209229328	1560209229328
+REQUEST	Video Game DB	8		Get All Videogames	1560209229329	1560209229329	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	9	START	1560209230328	1560209230328
+REQUEST	Video Game DB	9		Get All Videogames	1560209230329	1560209230329	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	10	START	1560209231328	1560209231328
+REQUEST	Video Game DB	10		Get All Videogames	1560209231329	1560209231329	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	11	START	1560209232327	1560209232327
+REQUEST	Video Game DB	11		Get All Videogames	1560209232328	1560209232328	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	4		Get Specific Videogame	1560209232389	1560209232389	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	2		Get Specific Videogame	1560209232389	1560209232389	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	1		Get Specific Videogame	1560209232389	1560209232389	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	3		Get Specific Videogame	1560209232389	1560209232389	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	5		Get Specific Videogame	1560209232389	1560209232389	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	6		Get Specific Videogame	1560209232390	1560209232390	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	12	START	1560209233328	1560209233328
+REQUEST	Video Game DB	12		Get All Videogames	1560209233329	1560209233329	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	7		Get Specific Videogame	1560209233349	1560209233349	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	13	START	1560209234328	1560209234328
+REQUEST	Video Game DB	13		Get All Videogames	1560209234329	1560209234329	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	8		Get Specific Videogame	1560209234358	1560209234358	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	14	START	1560209235327	1560209235327
+REQUEST	Video Game DB	14		Get All Videogames	1560209235328	1560209235328	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	9		Get Specific Videogame	1560209235358	1560209235358	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	15	START	1560209236328	1560209236328
+REQUEST	Video Game DB	15		Get All Videogames	1560209236329	1560209236329	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	10		Get Specific Videogame	1560209236348	1560209236348	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	11		Get Specific Videogame	1560209237348	1560209237348	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	5		Get All Videogames	1560209237388	1560209237388	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	3		Get All Videogames	1560209237388	1560209237388	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	1		Get All Videogames	1560209237388	1560209237388	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	4		Get All Videogames	1560209237388	1560209237388	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	2		Get All Videogames	1560209237388	1560209237388	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	6		Get All Videogames	1560209237388	1560209237388	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	4	END	1560209227330	1560209237399
+USER	Video Game DB	2	END	1560209227330	1560209237399
+USER	Video Game DB	3	END	1560209227330	1560209237399
+USER	Video Game DB	5	END	1560209227330	1560209237400
+USER	Video Game DB	6	END	1560209227337	1560209237400
+USER	Video Game DB	1	END	1560209227330	1560209237400
+REQUEST	Video Game DB	12		Get Specific Videogame	1560209238348	1560209238348	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	7		Get All Videogames	1560209238348	1560209238348	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	7	END	1560209228328	1560209238354
+REQUEST	Video Game DB	8		Get All Videogames	1560209239348	1560209239348	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	13		Get Specific Videogame	1560209239348	1560209239348	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	8	END	1560209229328	1560209239354
+REQUEST	Video Game DB	14		Get Specific Videogame	1560209240349	1560209240349	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	9		Get All Videogames	1560209240348	1560209240348	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	9	END	1560209230328	1560209240355
+REQUEST	Video Game DB	15		Get Specific Videogame	1560209241349	1560209241349	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	10		Get All Videogames	1560209241349	1560209241349	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	10	END	1560209231328	1560209241353
+REQUEST	Video Game DB	11		Get All Videogames	1560209242348	1560209242348	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	11	END	1560209232327	1560209242349
+REQUEST	Video Game DB	12		Get All Videogames	1560209243349	1560209243349	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	12	END	1560209233328	1560209243355
+REQUEST	Video Game DB	13		Get All Videogames	1560209244348	1560209244348	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	13	END	1560209234328	1560209244356
+REQUEST	Video Game DB	14		Get All Videogames	1560209245348	1560209245348	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	14	END	1560209235327	1560209245350
+REQUEST	Video Game DB	15		Get All Videogames	1560209246349	1560209246349	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	15	END	1560209236328	1560209246355

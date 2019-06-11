@@ -1,0 +1,6 @@
+RUN	simulations.CheckResponseCode		checkresponsecode	1560184384117	 	2.0
+USER	Video Game DB	1	START	1560184385332	1560184385332
+REQUEST	Video Game DB	1		Get All Games - 1st call	1560184385349	1560184385381	KO	status.find.is(400), but actually found 200
+REQUEST	Video Game DB	1		Get specific game	1560184385395	1560184385407	OK	 
+REQUEST	Video Game DB	1		Get All Games - 2nd call	1560184385408	1560184385416	OK	 
+USER	Video Game DB	1	END	1560184385332	1560184385418

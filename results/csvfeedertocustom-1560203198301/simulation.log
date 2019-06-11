@@ -1,0 +1,20 @@
+RUN	simulations.CsvFeederToCustom		csvfeedertocustom	1560203198301	 	2.0
+USER	Video Game DB	1	START	1560203199707	1560203199707
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203199733	1560203199769	OK	 
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203200791	1560203200803	OK	 
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203201802	1560203201813	OK	 
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203202819	1560203202830	OK	 
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203203831	1560203203841	OK	 
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203204840	1560203204857	OK	 
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203205861	1560203205872	OK	 
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203206871	1560203206881	OK	 
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203207891	1560203207902	OK	 
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203208901	1560203208915	OK	 
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203209910	1560203209996	KO	status.find.is(200), but actually found 500
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203211000	1560203211031	KO	status.find.is(200), but actually found 500
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203212030	1560203212059	KO	status.find.is(200), but actually found 500
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203213071	1560203213095	KO	status.find.is(200), but actually found 500
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203214090	1560203214114	KO	status.find.is(200), but actually found 500
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203215110	1560203215137	KO	status.find.is(200), but actually found 500
+REQUEST	Video Game DB	1		Get Specific Video Game	1560203216150	1560203216172	KO	status.find.is(200), but actually found 500
+USER	Video Game DB	1	END	1560203199707	1560203217173

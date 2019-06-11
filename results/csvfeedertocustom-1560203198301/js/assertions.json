@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CsvFeederToCustom",
+  "simulationId": "csvfeedertocustom",
+  "start": 1560203198301,
+  "description": "",
+  "scenarios": ["Video Game DB"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,501 @@
+RUN	simulations.RampUsersLoadSimulation		rampusersloadsimulation	1560268106242	 	2.0
+USER	Video Game DB	1	START	1560268111763	1560268111763
+REQUEST	Video Game DB	1		Get All Videogames	1560268111791	1560268111791	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	2	START	1560268111858	1560268111858
+REQUEST	Video Game DB	2		Get All Videogames	1560268111858	1560268111858	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	3	START	1560268111958	1560268111958
+REQUEST	Video Game DB	3		Get All Videogames	1560268111959	1560268111959	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	4	START	1560268112058	1560268112058
+REQUEST	Video Game DB	4		Get All Videogames	1560268112059	1560268112059	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	5	START	1560268112159	1560268112159
+REQUEST	Video Game DB	5		Get All Videogames	1560268112159	1560268112159	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	6	START	1560268112258	1560268112258
+REQUEST	Video Game DB	6		Get All Videogames	1560268112259	1560268112259	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	7	START	1560268112359	1560268112359
+REQUEST	Video Game DB	7		Get All Videogames	1560268112359	1560268112359	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	8	START	1560268112459	1560268112459
+REQUEST	Video Game DB	8		Get All Videogames	1560268112459	1560268112459	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	9	START	1560268112559	1560268112559
+REQUEST	Video Game DB	9		Get All Videogames	1560268112560	1560268112560	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	10	START	1560268112668	1560268112668
+REQUEST	Video Game DB	10		Get All Videogames	1560268112669	1560268112669	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	11	START	1560268112769	1560268112769
+REQUEST	Video Game DB	11		Get All Videogames	1560268112770	1560268112770	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	12	START	1560268112858	1560268112858
+REQUEST	Video Game DB	12		Get All Videogames	1560268112859	1560268112859	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	13	START	1560268112959	1560268112959
+REQUEST	Video Game DB	13		Get All Videogames	1560268112960	1560268112960	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	14	START	1560268113058	1560268113058
+REQUEST	Video Game DB	14		Get All Videogames	1560268113059	1560268113059	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	15	START	1560268113159	1560268113159
+REQUEST	Video Game DB	15		Get All Videogames	1560268113160	1560268113160	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	16	START	1560268113258	1560268113258
+REQUEST	Video Game DB	16		Get All Videogames	1560268113259	1560268113259	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	17	START	1560268113359	1560268113359
+REQUEST	Video Game DB	17		Get All Videogames	1560268113360	1560268113360	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	18	START	1560268113459	1560268113459
+REQUEST	Video Game DB	18		Get All Videogames	1560268113459	1560268113459	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	19	START	1560268113559	1560268113559
+REQUEST	Video Game DB	19		Get All Videogames	1560268113559	1560268113559	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	20	START	1560268113658	1560268113658
+REQUEST	Video Game DB	20		Get All Videogames	1560268113659	1560268113659	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	21	START	1560268113759	1560268113759
+REQUEST	Video Game DB	21		Get All Videogames	1560268113760	1560268113760	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	22	START	1560268113858	1560268113858
+REQUEST	Video Game DB	22		Get All Videogames	1560268113859	1560268113859	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	23	START	1560268113959	1560268113959
+REQUEST	Video Game DB	23		Get All Videogames	1560268113959	1560268113959	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	24	START	1560268114058	1560268114058
+REQUEST	Video Game DB	24		Get All Videogames	1560268114059	1560268114059	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	25	START	1560268114159	1560268114159
+REQUEST	Video Game DB	25		Get All Videogames	1560268114159	1560268114159	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	26	START	1560268114258	1560268114258
+REQUEST	Video Game DB	26		Get All Videogames	1560268114259	1560268114259	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	27	START	1560268114359	1560268114359
+REQUEST	Video Game DB	27		Get All Videogames	1560268114359	1560268114359	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	28	START	1560268114458	1560268114458
+REQUEST	Video Game DB	28		Get All Videogames	1560268114459	1560268114459	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	29	START	1560268114558	1560268114558
+REQUEST	Video Game DB	29		Get All Videogames	1560268114559	1560268114559	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	30	START	1560268114659	1560268114659
+REQUEST	Video Game DB	30		Get All Videogames	1560268114659	1560268114659	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	31	START	1560268114758	1560268114758
+REQUEST	Video Game DB	31		Get All Videogames	1560268114759	1560268114759	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	32	START	1560268114858	1560268114858
+REQUEST	Video Game DB	32		Get All Videogames	1560268114859	1560268114859	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	33	START	1560268114959	1560268114959
+REQUEST	Video Game DB	33		Get All Videogames	1560268114960	1560268114960	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	34	START	1560268115058	1560268115058
+REQUEST	Video Game DB	34		Get All Videogames	1560268115059	1560268115059	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	35	START	1560268115158	1560268115158
+REQUEST	Video Game DB	35		Get All Videogames	1560268115159	1560268115159	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	36	START	1560268115259	1560268115259
+REQUEST	Video Game DB	36		Get All Videogames	1560268115260	1560268115260	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	37	START	1560268115358	1560268115358
+REQUEST	Video Game DB	37		Get All Videogames	1560268115359	1560268115359	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	38	START	1560268115459	1560268115459
+REQUEST	Video Game DB	38		Get All Videogames	1560268115459	1560268115459	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	39	START	1560268115558	1560268115558
+REQUEST	Video Game DB	39		Get All Videogames	1560268115559	1560268115559	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	40	START	1560268115659	1560268115659
+REQUEST	Video Game DB	40		Get All Videogames	1560268115659	1560268115659	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	41	START	1560268115758	1560268115758
+REQUEST	Video Game DB	41		Get All Videogames	1560268115759	1560268115759	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	42	START	1560268115859	1560268115859
+REQUEST	Video Game DB	42		Get All Videogames	1560268115859	1560268115859	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	43	START	1560268115958	1560268115958
+REQUEST	Video Game DB	43		Get All Videogames	1560268115959	1560268115959	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	44	START	1560268116059	1560268116059
+REQUEST	Video Game DB	44		Get All Videogames	1560268116060	1560268116060	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	45	START	1560268116158	1560268116158
+REQUEST	Video Game DB	45		Get All Videogames	1560268116159	1560268116159	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	46	START	1560268116259	1560268116259
+REQUEST	Video Game DB	46		Get All Videogames	1560268116259	1560268116259	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	47	START	1560268116358	1560268116358
+REQUEST	Video Game DB	47		Get All Videogames	1560268116359	1560268116359	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	48	START	1560268116459	1560268116459
+REQUEST	Video Game DB	48		Get All Videogames	1560268116459	1560268116459	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	49	START	1560268116559	1560268116559
+REQUEST	Video Game DB	49		Get All Videogames	1560268116560	1560268116560	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	50	START	1560268116659	1560268116659
+REQUEST	Video Game DB	50		Get All Videogames	1560268116659	1560268116659	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	51	START	1560268116759	1560268116759
+REQUEST	Video Game DB	51		Get All Videogames	1560268116759	1560268116759	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	1		Get Specific Videogame	1560268116819	1560268116819	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	52	START	1560268116858	1560268116858
+REQUEST	Video Game DB	52		Get All Videogames	1560268116859	1560268116859	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	2		Get Specific Videogame	1560268116879	1560268116879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	53	START	1560268116959	1560268116959
+REQUEST	Video Game DB	53		Get All Videogames	1560268116959	1560268116959	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	3		Get Specific Videogame	1560268116979	1560268116979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	54	START	1560268117058	1560268117058
+REQUEST	Video Game DB	54		Get All Videogames	1560268117059	1560268117059	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	4		Get Specific Videogame	1560268117079	1560268117079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	55	START	1560268117159	1560268117159
+REQUEST	Video Game DB	55		Get All Videogames	1560268117159	1560268117159	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	5		Get Specific Videogame	1560268117178	1560268117178	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	56	START	1560268117258	1560268117258
+REQUEST	Video Game DB	56		Get All Videogames	1560268117259	1560268117259	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	6		Get Specific Videogame	1560268117279	1560268117279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	57	START	1560268117359	1560268117359
+REQUEST	Video Game DB	57		Get All Videogames	1560268117359	1560268117359	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	7		Get Specific Videogame	1560268117379	1560268117379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	58	START	1560268117459	1560268117459
+REQUEST	Video Game DB	58		Get All Videogames	1560268117460	1560268117460	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	8		Get Specific Videogame	1560268117479	1560268117479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	59	START	1560268117558	1560268117558
+REQUEST	Video Game DB	59		Get All Videogames	1560268117558	1560268117558	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	9		Get Specific Videogame	1560268117579	1560268117579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	60	START	1560268117659	1560268117659
+REQUEST	Video Game DB	60		Get All Videogames	1560268117659	1560268117659	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	10		Get Specific Videogame	1560268117689	1560268117689	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	61	START	1560268117758	1560268117758
+REQUEST	Video Game DB	61		Get All Videogames	1560268117759	1560268117759	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	11		Get Specific Videogame	1560268117799	1560268117799	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	62	START	1560268117858	1560268117858
+REQUEST	Video Game DB	62		Get All Videogames	1560268117858	1560268117858	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	12		Get Specific Videogame	1560268117878	1560268117878	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	63	START	1560268117958	1560268117958
+REQUEST	Video Game DB	63		Get All Videogames	1560268117959	1560268117959	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	13		Get Specific Videogame	1560268117979	1560268117979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	64	START	1560268118059	1560268118059
+REQUEST	Video Game DB	64		Get All Videogames	1560268118059	1560268118059	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	14		Get Specific Videogame	1560268118078	1560268118078	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	65	START	1560268118158	1560268118158
+REQUEST	Video Game DB	65		Get All Videogames	1560268118159	1560268118159	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	15		Get Specific Videogame	1560268118179	1560268118179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	66	START	1560268118259	1560268118259
+REQUEST	Video Game DB	66		Get All Videogames	1560268118259	1560268118259	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	16		Get Specific Videogame	1560268118279	1560268118279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	67	START	1560268118358	1560268118358
+REQUEST	Video Game DB	67		Get All Videogames	1560268118359	1560268118359	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	17		Get Specific Videogame	1560268118379	1560268118379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	68	START	1560268118459	1560268118459
+REQUEST	Video Game DB	68		Get All Videogames	1560268118459	1560268118459	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	18		Get Specific Videogame	1560268118479	1560268118479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	69	START	1560268118559	1560268118559
+REQUEST	Video Game DB	69		Get All Videogames	1560268118559	1560268118559	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	19		Get Specific Videogame	1560268118578	1560268118578	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	70	START	1560268118658	1560268118658
+REQUEST	Video Game DB	70		Get All Videogames	1560268118659	1560268118659	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	20		Get Specific Videogame	1560268118679	1560268118679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	71	START	1560268118758	1560268118758
+REQUEST	Video Game DB	71		Get All Videogames	1560268118759	1560268118759	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	21		Get Specific Videogame	1560268118779	1560268118779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	72	START	1560268118859	1560268118859
+REQUEST	Video Game DB	72		Get All Videogames	1560268118859	1560268118859	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	22		Get Specific Videogame	1560268118879	1560268118879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	73	START	1560268118958	1560268118958
+REQUEST	Video Game DB	73		Get All Videogames	1560268118958	1560268118958	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	23		Get Specific Videogame	1560268118978	1560268118978	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	74	START	1560268119058	1560268119058
+REQUEST	Video Game DB	74		Get All Videogames	1560268119059	1560268119059	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	24		Get Specific Videogame	1560268119079	1560268119079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	75	START	1560268119158	1560268119158
+REQUEST	Video Game DB	75		Get All Videogames	1560268119159	1560268119159	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	25		Get Specific Videogame	1560268119179	1560268119179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	76	START	1560268119259	1560268119259
+REQUEST	Video Game DB	76		Get All Videogames	1560268119260	1560268119260	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	26		Get Specific Videogame	1560268119279	1560268119279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	77	START	1560268119358	1560268119358
+REQUEST	Video Game DB	77		Get All Videogames	1560268119358	1560268119358	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	27		Get Specific Videogame	1560268119379	1560268119379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	78	START	1560268119458	1560268119458
+REQUEST	Video Game DB	78		Get All Videogames	1560268119459	1560268119459	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	28		Get Specific Videogame	1560268119479	1560268119479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	79	START	1560268119559	1560268119559
+REQUEST	Video Game DB	79		Get All Videogames	1560268119559	1560268119559	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	29		Get Specific Videogame	1560268119578	1560268119578	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	80	START	1560268119658	1560268119658
+REQUEST	Video Game DB	80		Get All Videogames	1560268119659	1560268119659	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	30		Get Specific Videogame	1560268119679	1560268119679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	81	START	1560268119759	1560268119759
+REQUEST	Video Game DB	81		Get All Videogames	1560268119759	1560268119759	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	31		Get Specific Videogame	1560268119778	1560268119778	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	82	START	1560268119859	1560268119859
+REQUEST	Video Game DB	82		Get All Videogames	1560268119859	1560268119859	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	32		Get Specific Videogame	1560268119878	1560268119878	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	83	START	1560268119958	1560268119958
+REQUEST	Video Game DB	83		Get All Videogames	1560268119959	1560268119959	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	33		Get Specific Videogame	1560268119979	1560268119979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	84	START	1560268120059	1560268120059
+REQUEST	Video Game DB	84		Get All Videogames	1560268120059	1560268120059	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	34		Get Specific Videogame	1560268120079	1560268120079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	85	START	1560268120159	1560268120159
+REQUEST	Video Game DB	85		Get All Videogames	1560268120160	1560268120160	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	35		Get Specific Videogame	1560268120179	1560268120179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	86	START	1560268120258	1560268120258
+REQUEST	Video Game DB	86		Get All Videogames	1560268120258	1560268120258	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	36		Get Specific Videogame	1560268120279	1560268120279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	87	START	1560268120358	1560268120358
+REQUEST	Video Game DB	87		Get All Videogames	1560268120359	1560268120359	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	37		Get Specific Videogame	1560268120379	1560268120379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	88	START	1560268120459	1560268120459
+REQUEST	Video Game DB	88		Get All Videogames	1560268120459	1560268120459	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	38		Get Specific Videogame	1560268120479	1560268120479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	89	START	1560268120559	1560268120559
+REQUEST	Video Game DB	89		Get All Videogames	1560268120559	1560268120559	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	39		Get Specific Videogame	1560268120580	1560268120580	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	90	START	1560268120659	1560268120659
+REQUEST	Video Game DB	90		Get All Videogames	1560268120659	1560268120659	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	40		Get Specific Videogame	1560268120678	1560268120678	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	91	START	1560268120758	1560268120758
+REQUEST	Video Game DB	91		Get All Videogames	1560268120758	1560268120758	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	41		Get Specific Videogame	1560268120779	1560268120779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	92	START	1560268120858	1560268120858
+REQUEST	Video Game DB	92		Get All Videogames	1560268120859	1560268120859	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	42		Get Specific Videogame	1560268120879	1560268120879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	93	START	1560268120959	1560268120959
+REQUEST	Video Game DB	93		Get All Videogames	1560268120959	1560268120959	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	43		Get Specific Videogame	1560268120979	1560268120979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	94	START	1560268121059	1560268121059
+REQUEST	Video Game DB	94		Get All Videogames	1560268121059	1560268121059	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	44		Get Specific Videogame	1560268121079	1560268121079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	95	START	1560268121159	1560268121159
+REQUEST	Video Game DB	95		Get All Videogames	1560268121159	1560268121159	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	45		Get Specific Videogame	1560268121178	1560268121178	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	96	START	1560268121258	1560268121258
+REQUEST	Video Game DB	96		Get All Videogames	1560268121259	1560268121259	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	46		Get Specific Videogame	1560268121279	1560268121279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	97	START	1560268121359	1560268121359
+REQUEST	Video Game DB	97		Get All Videogames	1560268121359	1560268121359	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	47		Get Specific Videogame	1560268121379	1560268121379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	98	START	1560268121459	1560268121459
+REQUEST	Video Game DB	98		Get All Videogames	1560268121459	1560268121459	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	48		Get Specific Videogame	1560268121479	1560268121479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	99	START	1560268121559	1560268121559
+REQUEST	Video Game DB	99		Get All Videogames	1560268121559	1560268121559	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	49		Get Specific Videogame	1560268121579	1560268121579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	100	START	1560268121659	1560268121659
+REQUEST	Video Game DB	100		Get All Videogames	1560268121659	1560268121659	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	50		Get Specific Videogame	1560268121679	1560268121679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	51		Get Specific Videogame	1560268121779	1560268121779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	1		Get All Videogames	1560268121809	1560268121809	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	1	END	1560268111763	1560268121818
+REQUEST	Video Game DB	52		Get Specific Videogame	1560268121879	1560268121879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	2		Get All Videogames	1560268121879	1560268121879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	2	END	1560268111858	1560268121881
+REQUEST	Video Game DB	3		Get All Videogames	1560268121979	1560268121979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	53		Get Specific Videogame	1560268121979	1560268121979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	3	END	1560268111958	1560268121981
+REQUEST	Video Game DB	54		Get Specific Videogame	1560268122078	1560268122078	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	4		Get All Videogames	1560268122078	1560268122078	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	4	END	1560268112058	1560268122080
+REQUEST	Video Game DB	55		Get Specific Videogame	1560268122179	1560268122179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	5		Get All Videogames	1560268122179	1560268122179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	5	END	1560268112159	1560268122181
+REQUEST	Video Game DB	6		Get All Videogames	1560268122279	1560268122279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	56		Get Specific Videogame	1560268122279	1560268122279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	6	END	1560268112258	1560268122284
+REQUEST	Video Game DB	57		Get Specific Videogame	1560268122379	1560268122379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	7		Get All Videogames	1560268122379	1560268122379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	7	END	1560268112359	1560268122380
+REQUEST	Video Game DB	58		Get Specific Videogame	1560268122479	1560268122479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	8		Get All Videogames	1560268122479	1560268122479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	8	END	1560268112459	1560268122481
+REQUEST	Video Game DB	9		Get All Videogames	1560268122578	1560268122578	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	59		Get Specific Videogame	1560268122578	1560268122578	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	9	END	1560268112559	1560268122580
+REQUEST	Video Game DB	60		Get Specific Videogame	1560268122679	1560268122679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	10		Get All Videogames	1560268122689	1560268122689	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	10	END	1560268112668	1560268122694
+REQUEST	Video Game DB	61		Get Specific Videogame	1560268122779	1560268122779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	11		Get All Videogames	1560268122789	1560268122789	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	11	END	1560268112769	1560268122793
+REQUEST	Video Game DB	62		Get Specific Videogame	1560268122879	1560268122879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	12		Get All Videogames	1560268122879	1560268122879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	12	END	1560268112858	1560268122883
+REQUEST	Video Game DB	13		Get All Videogames	1560268122979	1560268122979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	13	END	1560268112959	1560268122981
+REQUEST	Video Game DB	63		Get Specific Videogame	1560268122979	1560268122979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	14		Get All Videogames	1560268123079	1560268123079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	64		Get Specific Videogame	1560268123079	1560268123079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	14	END	1560268113058	1560268123084
+REQUEST	Video Game DB	15		Get All Videogames	1560268123179	1560268123179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	65		Get Specific Videogame	1560268123179	1560268123179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	15	END	1560268113159	1560268123183
+REQUEST	Video Game DB	16		Get All Videogames	1560268123279	1560268123279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	16	END	1560268113258	1560268123281
+REQUEST	Video Game DB	66		Get Specific Videogame	1560268123279	1560268123279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	17		Get All Videogames	1560268123379	1560268123379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	67		Get Specific Videogame	1560268123379	1560268123379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	17	END	1560268113359	1560268123384
+REQUEST	Video Game DB	18		Get All Videogames	1560268123479	1560268123479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	68		Get Specific Videogame	1560268123479	1560268123479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	18	END	1560268113459	1560268123483
+REQUEST	Video Game DB	19		Get All Videogames	1560268123579	1560268123579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	19	END	1560268113559	1560268123584
+REQUEST	Video Game DB	69		Get Specific Videogame	1560268123579	1560268123579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	70		Get Specific Videogame	1560268123679	1560268123679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	20		Get All Videogames	1560268123679	1560268123679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	20	END	1560268113658	1560268123683
+REQUEST	Video Game DB	71		Get Specific Videogame	1560268123779	1560268123779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	21		Get All Videogames	1560268123779	1560268123779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	21	END	1560268113759	1560268123784
+REQUEST	Video Game DB	72		Get Specific Videogame	1560268123879	1560268123879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	22		Get All Videogames	1560268123879	1560268123879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	22	END	1560268113858	1560268123884
+REQUEST	Video Game DB	73		Get Specific Videogame	1560268123979	1560268123979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	23		Get All Videogames	1560268123979	1560268123979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	23	END	1560268113959	1560268123983
+REQUEST	Video Game DB	74		Get Specific Videogame	1560268124079	1560268124079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	24		Get All Videogames	1560268124079	1560268124079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	24	END	1560268114058	1560268124083
+REQUEST	Video Game DB	25		Get All Videogames	1560268124179	1560268124179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	25	END	1560268114159	1560268124183
+REQUEST	Video Game DB	75		Get Specific Videogame	1560268124179	1560268124179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	26		Get All Videogames	1560268124279	1560268124279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	26	END	1560268114258	1560268124283
+REQUEST	Video Game DB	76		Get Specific Videogame	1560268124279	1560268124279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	77		Get Specific Videogame	1560268124379	1560268124379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	27		Get All Videogames	1560268124379	1560268124379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	27	END	1560268114359	1560268124384
+REQUEST	Video Game DB	78		Get Specific Videogame	1560268124478	1560268124478	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	28		Get All Videogames	1560268124478	1560268124478	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	28	END	1560268114458	1560268124481
+REQUEST	Video Game DB	29		Get All Videogames	1560268124579	1560268124579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	29	END	1560268114558	1560268124583
+REQUEST	Video Game DB	79		Get Specific Videogame	1560268124579	1560268124579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	30		Get All Videogames	1560268124679	1560268124679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	80		Get Specific Videogame	1560268124679	1560268124679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	30	END	1560268114659	1560268124683
+REQUEST	Video Game DB	81		Get Specific Videogame	1560268124779	1560268124779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	31		Get All Videogames	1560268124779	1560268124779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	31	END	1560268114758	1560268124781
+REQUEST	Video Game DB	82		Get Specific Videogame	1560268124878	1560268124878	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	32		Get All Videogames	1560268124878	1560268124878	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	32	END	1560268114858	1560268124881
+REQUEST	Video Game DB	83		Get Specific Videogame	1560268124979	1560268124979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	33		Get All Videogames	1560268124979	1560268124979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	33	END	1560268114959	1560268124981
+REQUEST	Video Game DB	84		Get Specific Videogame	1560268125079	1560268125079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	34		Get All Videogames	1560268125079	1560268125079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	34	END	1560268115058	1560268125084
+REQUEST	Video Game DB	35		Get All Videogames	1560268125179	1560268125179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	85		Get Specific Videogame	1560268125179	1560268125179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	35	END	1560268115158	1560268125183
+REQUEST	Video Game DB	86		Get Specific Videogame	1560268125279	1560268125279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	36		Get All Videogames	1560268125289	1560268125289	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	36	END	1560268115259	1560268125293
+REQUEST	Video Game DB	87		Get Specific Videogame	1560268125379	1560268125379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	37		Get All Videogames	1560268125379	1560268125379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	37	END	1560268115358	1560268125384
+REQUEST	Video Game DB	38		Get All Videogames	1560268125479	1560268125479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	88		Get Specific Videogame	1560268125479	1560268125479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	38	END	1560268115459	1560268125484
+REQUEST	Video Game DB	89		Get Specific Videogame	1560268125579	1560268125579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	39		Get All Videogames	1560268125579	1560268125579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	39	END	1560268115558	1560268125584
+REQUEST	Video Game DB	90		Get Specific Videogame	1560268125679	1560268125679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	40		Get All Videogames	1560268125679	1560268125679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	40	END	1560268115659	1560268125680
+REQUEST	Video Game DB	91		Get Specific Videogame	1560268125778	1560268125778	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	41		Get All Videogames	1560268125778	1560268125778	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	41	END	1560268115758	1560268125779
+REQUEST	Video Game DB	92		Get Specific Videogame	1560268125879	1560268125879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	42		Get All Videogames	1560268125879	1560268125879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	42	END	1560268115859	1560268125880
+REQUEST	Video Game DB	43		Get All Videogames	1560268125979	1560268125979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	93		Get Specific Videogame	1560268125979	1560268125979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	43	END	1560268115958	1560268125983
+REQUEST	Video Game DB	44		Get All Videogames	1560268126079	1560268126079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	94		Get Specific Videogame	1560268126079	1560268126079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	44	END	1560268116059	1560268126083
+REQUEST	Video Game DB	95		Get Specific Videogame	1560268126179	1560268126179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	45		Get All Videogames	1560268126179	1560268126179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	45	END	1560268116158	1560268126180
+REQUEST	Video Game DB	96		Get Specific Videogame	1560268126278	1560268126278	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	46		Get All Videogames	1560268126278	1560268126278	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	46	END	1560268116259	1560268126281
+REQUEST	Video Game DB	97		Get Specific Videogame	1560268126378	1560268126378	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	47		Get All Videogames	1560268126378	1560268126378	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	47	END	1560268116358	1560268126380
+REQUEST	Video Game DB	48		Get All Videogames	1560268126478	1560268126478	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	48	END	1560268116459	1560268126480
+REQUEST	Video Game DB	98		Get Specific Videogame	1560268126478	1560268126478	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	49		Get All Videogames	1560268126579	1560268126579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	99		Get Specific Videogame	1560268126579	1560268126579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	49	END	1560268116559	1560268126584
+REQUEST	Video Game DB	50		Get All Videogames	1560268126679	1560268126679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+REQUEST	Video Game DB	100		Get Specific Videogame	1560268126679	1560268126679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	50	END	1560268116659	1560268126683
+REQUEST	Video Game DB	51		Get All Videogames	1560268126779	1560268126779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	51	END	1560268116759	1560268126783
+REQUEST	Video Game DB	52		Get All Videogames	1560268126879	1560268126879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	52	END	1560268116858	1560268126883
+REQUEST	Video Game DB	53		Get All Videogames	1560268126979	1560268126979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	53	END	1560268116959	1560268126983
+REQUEST	Video Game DB	54		Get All Videogames	1560268127079	1560268127079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	54	END	1560268117058	1560268127083
+REQUEST	Video Game DB	55		Get All Videogames	1560268127179	1560268127179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	55	END	1560268117159	1560268127183
+REQUEST	Video Game DB	56		Get All Videogames	1560268127279	1560268127279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	56	END	1560268117258	1560268127282
+REQUEST	Video Game DB	57		Get All Videogames	1560268127379	1560268127379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	57	END	1560268117359	1560268127384
+REQUEST	Video Game DB	58		Get All Videogames	1560268127479	1560268127479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	58	END	1560268117459	1560268127483
+REQUEST	Video Game DB	59		Get All Videogames	1560268127579	1560268127579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	59	END	1560268117558	1560268127583
+REQUEST	Video Game DB	60		Get All Videogames	1560268127679	1560268127679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	60	END	1560268117659	1560268127685
+REQUEST	Video Game DB	61		Get All Videogames	1560268127779	1560268127779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	61	END	1560268117758	1560268127783
+REQUEST	Video Game DB	62		Get All Videogames	1560268127879	1560268127879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	62	END	1560268117858	1560268127884
+REQUEST	Video Game DB	63		Get All Videogames	1560268127979	1560268127979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	63	END	1560268117958	1560268127983
+REQUEST	Video Game DB	64		Get All Videogames	1560268128079	1560268128079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	64	END	1560268118059	1560268128083
+REQUEST	Video Game DB	65		Get All Videogames	1560268128179	1560268128179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	65	END	1560268118158	1560268128183
+REQUEST	Video Game DB	66		Get All Videogames	1560268128279	1560268128279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	66	END	1560268118259	1560268128283
+REQUEST	Video Game DB	67		Get All Videogames	1560268128379	1560268128379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	67	END	1560268118358	1560268128383
+REQUEST	Video Game DB	68		Get All Videogames	1560268128479	1560268128479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	68	END	1560268118459	1560268128482
+REQUEST	Video Game DB	69		Get All Videogames	1560268128579	1560268128579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	69	END	1560268118559	1560268128583
+REQUEST	Video Game DB	70		Get All Videogames	1560268128679	1560268128679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	70	END	1560268118658	1560268128683
+REQUEST	Video Game DB	71		Get All Videogames	1560268128779	1560268128779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	71	END	1560268118758	1560268128782
+REQUEST	Video Game DB	72		Get All Videogames	1560268128879	1560268128879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	72	END	1560268118859	1560268128883
+REQUEST	Video Game DB	73		Get All Videogames	1560268128979	1560268128979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	73	END	1560268118958	1560268128982
+REQUEST	Video Game DB	74		Get All Videogames	1560268129079	1560268129079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	74	END	1560268119058	1560268129083
+REQUEST	Video Game DB	75		Get All Videogames	1560268129179	1560268129179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	75	END	1560268119158	1560268129182
+REQUEST	Video Game DB	76		Get All Videogames	1560268129279	1560268129279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	76	END	1560268119259	1560268129283
+REQUEST	Video Game DB	77		Get All Videogames	1560268129379	1560268129379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	77	END	1560268119358	1560268129382
+REQUEST	Video Game DB	78		Get All Videogames	1560268129479	1560268129479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	78	END	1560268119458	1560268129483
+REQUEST	Video Game DB	79		Get All Videogames	1560268129579	1560268129579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	79	END	1560268119559	1560268129583
+REQUEST	Video Game DB	80		Get All Videogames	1560268129679	1560268129679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	80	END	1560268119658	1560268129683
+REQUEST	Video Game DB	81		Get All Videogames	1560268129779	1560268129779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	81	END	1560268119759	1560268129783
+REQUEST	Video Game DB	82		Get All Videogames	1560268129879	1560268129879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	82	END	1560268119859	1560268129882
+REQUEST	Video Game DB	83		Get All Videogames	1560268129979	1560268129979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	83	END	1560268119958	1560268129983
+REQUEST	Video Game DB	84		Get All Videogames	1560268130079	1560268130079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	84	END	1560268120059	1560268130082
+REQUEST	Video Game DB	85		Get All Videogames	1560268130179	1560268130179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	85	END	1560268120159	1560268130182
+REQUEST	Video Game DB	86		Get All Videogames	1560268130278	1560268130278	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	86	END	1560268120258	1560268130282
+REQUEST	Video Game DB	87		Get All Videogames	1560268130379	1560268130379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	87	END	1560268120358	1560268130383
+REQUEST	Video Game DB	88		Get All Videogames	1560268130479	1560268130479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	88	END	1560268120459	1560268130482
+REQUEST	Video Game DB	89		Get All Videogames	1560268130579	1560268130579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	89	END	1560268120559	1560268130582
+REQUEST	Video Game DB	90		Get All Videogames	1560268130679	1560268130679	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	90	END	1560268120659	1560268130683
+REQUEST	Video Game DB	91		Get All Videogames	1560268130779	1560268130779	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	91	END	1560268120758	1560268130782
+REQUEST	Video Game DB	92		Get All Videogames	1560268130879	1560268130879	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	92	END	1560268120858	1560268130882
+REQUEST	Video Game DB	93		Get All Videogames	1560268130979	1560268130979	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	93	END	1560268120959	1560268130983
+REQUEST	Video Game DB	94		Get All Videogames	1560268131079	1560268131079	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	94	END	1560268121059	1560268131082
+REQUEST	Video Game DB	95		Get All Videogames	1560268131179	1560268131179	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	95	END	1560268121159	1560268131183
+REQUEST	Video Game DB	96		Get All Videogames	1560268131279	1560268131279	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	96	END	1560268121258	1560268131283
+REQUEST	Video Game DB	97		Get All Videogames	1560268131379	1560268131379	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	97	END	1560268121359	1560268131382
+REQUEST	Video Game DB	98		Get All Videogames	1560268131479	1560268131479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	98	END	1560268121459	1560268131483
+REQUEST	Video Game DB	99		Get All Videogames	1560268131579	1560268131579	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	99	END	1560268121559	1560268131582
+REQUEST	Video Game DB	100		Get All Videogames	1560268131678	1560268131678	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:8888
+USER	Video Game DB	100	END	1560268121659	1560268131682
